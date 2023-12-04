@@ -10,7 +10,6 @@ import java.util.regex.Pattern;
 import org.apache.commons.lang3.StringUtils;
 import org.apache.commons.lang3.tuple.Pair;
 
-/** Hello world! */
 public class Day01 {
   public static final String NUM_REGEX = "(one|two|three|four|five|six|seven|eight|nine)";
   public static final Map<String, Integer> NUM_MAP =
